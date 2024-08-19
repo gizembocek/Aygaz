@@ -1,0 +1,6 @@
+def kare(x):
+	return x**2
+
+def kup(a):
+	return a**3
+print(kare(5))
